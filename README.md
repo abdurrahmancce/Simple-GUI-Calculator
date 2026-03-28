@@ -109,11 +109,13 @@ For production-level apps, safer parsing methods are recommended.
 ## 🙌 Contribution
 
 Feel free to fork and improve this project.
+
 Suggestions and pull requests are always welcome.
 
 ---
 
 ## 📌 Author
 
-Abdur Rahman
+### Abdur Rahman
+
 Computer & Communication Engineering Student
